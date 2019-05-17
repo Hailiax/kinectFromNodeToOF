@@ -1,0 +1,15 @@
+{
+  "name": "kinect-socket-basic",
+  "version": "0.0.0",
+  "description": "kinectSocketBasic",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "kinect2": "^0.1.7",
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0"
+  }
+}
